@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iajr.org/sitemap.xml
