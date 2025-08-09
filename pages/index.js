@@ -1,6 +1,13 @@
 import Image from "next/image";
 import { useState, useMemo } from "react";
 
+import Head from 'next/head';
+
+<Head>
+  <title>International AI Journal & Review – IAJR</title>
+  <meta name="description" content="Peer-reviewed international AI journal publishing cutting-edge research in Machine Learning, NLP, Computer Vision, Robotics, and AI Ethics." />
+</Head>
+
 // 🎨 Palette officielle IAJR
 const brand = {
   navy: "#0D2A4D",
